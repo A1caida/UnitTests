@@ -1,0 +1,9 @@
+C:\Users\A1caida\source\repos\unit\unit\bin\Debug\netstandard2.0\unit.deps.json
+C:\Users\A1caida\source\repos\unit\unit\bin\Debug\netstandard2.0\unit.dll
+C:\Users\A1caida\source\repos\unit\unit\bin\Debug\netstandard2.0\unit.pdb
+C:\Users\A1caida\source\repos\unit\unit\obj\Debug\netstandard2.0\unit.csprojAssemblyReference.cache
+C:\Users\A1caida\source\repos\unit\unit\obj\Debug\netstandard2.0\unit.AssemblyInfoInputs.cache
+C:\Users\A1caida\source\repos\unit\unit\obj\Debug\netstandard2.0\unit.AssemblyInfo.cs
+C:\Users\A1caida\source\repos\unit\unit\obj\Debug\netstandard2.0\unit.csproj.CoreCompileInputs.cache
+C:\Users\A1caida\source\repos\unit\unit\obj\Debug\netstandard2.0\unit.dll
+C:\Users\A1caida\source\repos\unit\unit\obj\Debug\netstandard2.0\unit.pdb

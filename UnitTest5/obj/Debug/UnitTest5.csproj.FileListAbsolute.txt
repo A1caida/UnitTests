@@ -1,0 +1,15 @@
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\UnitTest5.dll
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\UnitTest5.pdb
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\unit.dll
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\unit.pdb
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\A1caida\source\repos\unit\UnitTest5\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\A1caida\source\repos\unit\UnitTest5\obj\Debug\UnitTest5.csproj.CoreCompileInputs.cache
+C:\Users\A1caida\source\repos\unit\UnitTest5\obj\Debug\UnitTest5.csproj.CopyComplete
+C:\Users\A1caida\source\repos\unit\UnitTest5\obj\Debug\UnitTest5.dll
+C:\Users\A1caida\source\repos\unit\UnitTest5\obj\Debug\UnitTest5.pdb
